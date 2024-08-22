@@ -37,3 +37,11 @@ import { getDatabase, ref, set, update } from "firebase/database";
             const data = item.val();
             setList(data)
         })      
+
+6. using firebase upload image
+    6.1 use firebase storage first
+    then use there funcanality
+
+7. after that delete data from storage first and second from realtime database.
+
+8. also update image on firebase
